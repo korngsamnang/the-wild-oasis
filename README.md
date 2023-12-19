@@ -27,21 +27,21 @@ options. And so much more! See it in action at
 
 -   **Frontend**:
 
-    -   **React**: A very popular JavaScript library for building user
+    -   **[React]**: A very popular JavaScript library for building user
         interfaces.
-    -   **React Router**: The standard routing for React SPAs.
-    -   **Styled Components**: A very popular way of writing component-scoped
+    -   **[React Router]**: The standard routing for React SPAs.
+    -   **[Styled Components]**: A very popular way of writing component-scoped
         CSS, right inside JavaScript.
-    -   **React Query**: The best way of managing remote state, with features
+    -   **[React Query]**: The best way of managing remote state, with features
         like caching, automatic re-fetching, pre-fetching offline support, etc.
         Alternatives are SWR and RTK query, but this is the most popular.
     -   **Context API**: One simple context with `useState` will be enough, No
         need Redux.
-    -   **React Hook Form**: A library can simplify handling bigger forms.
-    -   **Others**: React Icons, React hot toast, Recharts, date-fns
+    -   **[React Hook Form]**: A library can simplify handling bigger forms.
+    -   **Others**: [React Icons], [React hot toast], [Recharts], [date-fns]
 
 -   **Backend**:
-    -   Handle by **Supabase**: A service that allows developers to easily
+    -   Handle by **[Supabase]**: A service that allows developers to easily
         create a back-end with a Postgres database. It automatically creates a
         database and API so we can easily request and receive data from the
         server. Also comes with easy-to-use user authentication and file
@@ -182,3 +182,14 @@ applications without complex backends.
 
 Special thanks to
 [Jonas Schmedtmann](https://twitter.com/jonasschmedtman?lang=en).
+
+[React]: https://react.dev/
+[React Query]: https://tanstack.com/query/latest/
+[Styled Components]: https://styled-components.com/
+[React Router]: https://reactrouter.com/en/main
+[React Hook Form]: https://react-hook-form.com/
+[React Icons]: https://react-icons.github.io/react-icons/
+[React hot toast]: https://react-hot-toast.com/
+[Recharts]: https://recharts.org/en-US/
+[date-fns]: https://date-fns.org/
+[Supabase]: https://supabase.com/
