@@ -148,6 +148,9 @@ test12345
 
 ## Data Modeling
 
+> Data modeling for The Wild Oasis app.
+> ![](https://github.com/korngsamnang/the-wild-oasis/assets/99709883/fb28ee20-4fd6-4666-9910-2fe6e2f2ee34)
+
 ## Folder Structure
 
 ```
