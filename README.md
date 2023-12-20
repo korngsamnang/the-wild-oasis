@@ -119,7 +119,7 @@ git clone https://github.com/korngsamnang/the-wild-oasis
 
 ### Environment Variables
 
-Rename the .env.example file to .env and modify the following:
+Rename the `.env.example` file to `.env` and modify the following:
 
 ```bash
 VITE_SUPABASE_URL=your-supabase-url
